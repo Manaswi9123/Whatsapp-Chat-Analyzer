@@ -46,3 +46,14 @@ Gain deep insights into your conversations! This project is a comprehensive **Wh
 2. **Clone this Repo:**
    ```bash
    git clone [https://github.com/Manaswi9123/Python-DataScience-Fundamentals.git](https://github.com/Manaswi9123/Python-DataScience-Fundamentals.git)
+
+## Install Requirements:
+
+   pip install streamlit pandas matplotlib seaborn wordcloud emoji urlextract  
+
+## Run the App:
+
+   streamlit run App.py
+
+## Upload: 
+   Drag and drop your exported .txt file into the sidebar!
